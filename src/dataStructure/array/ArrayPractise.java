@@ -28,12 +28,9 @@ public class ArrayPractise {
             }
         }
 
-        //for each loop
-        int[] numbers = {10, 11, 12, 13};
-        for (int s:numbers) {
-            System.out.println(s);
 
-        }
+
+
 
     }
 }
