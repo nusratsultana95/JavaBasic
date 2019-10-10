@@ -1,4 +1,4 @@
-package newJava;
+package dataStructure.array;
 
 public class ArrayPractise {
     public static void main(String[] args) {
